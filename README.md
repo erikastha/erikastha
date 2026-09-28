@@ -62,19 +62,11 @@ I'm a second-year BSc (Hons) Computer Science student at The Westminster College
   <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=0E75B6&text_color=c9d1d9&icon_color=0E75B6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
 </picture>
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&title_color=0E75B6&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&title_color=0E75B6&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&title_color=0E75B6&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+
 </picture>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=ffffff&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
-</picture>
 
 </div>
 
