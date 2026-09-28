@@ -9,29 +9,15 @@
 <br/><br/>
 
 <a href="mailto:shrestha.erika006@gmail.com"><img src="https://img.shields.io/badge/Email-shrestha.erika006%40gmail.com-0E75B6?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/erikashrestha-44a108369"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E75B6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/erika-shrestha-44a108369"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E75B6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-0E75B6?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<div align="center">
 
-**Tech**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-**Professional**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Digital_Marketing-0E75B6?style=flat-square" />
-<img src="https://img.shields.io/badge/Social_Media_Content-0E75B6?style=flat-square" />
-<img src="https://img.shields.io/badge/Communication-0E75B6?style=flat-square" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
